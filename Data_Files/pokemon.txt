@@ -1,0 +1,21 @@
+ID,Name,Type,HP,Attack,Defense,Speed,Move1,Move1Type,Power1,PP1,Move2,Move2Type,Power2,PP2,Move3,Move3Type,Power3,PP3,Move4,Move4Type,Power4,PP4
+1,Venusaur,Grass,220,115,115,80,Razor Leaf,Grass,45,3,Solar Beam,Grass,100,1,Vine Whip,Grass,35,3,Earthquake,Ground,85,2
+2,Charizard,Fire,200,130,90,105,Flamethrower,Fire,75,3,Fire Blast,Fire,95,2,Air Slash,Flying,60,3,Dragon Claw,Dragon,65,3
+3,Blastoise,Water,230,110,130,78,Water Gun,Water,30,3,Hydro Pump,Water,100,1,Ice Beam,Ice,75,3,Skull Bash,Normal,70,3
+4,Raichu,Electric,180,105,75,125,Thunder Shock,Electric,30,3,Thunderbolt,Electric,75,3,Thunder,Electric,100,1,Quick Attack,Normal,30,3
+5,Gengar,Ghost,170,140,70,130,Shadow Ball,Ghost,65,3,Dark Pulse,Dark,65,3,Hypnosis,Psychic,0,1,Dream Eater,Psychic,85,2
+6,Alakazam,Psychic,165,145,65,135,Psychic,Psychic,75,3,Psybeam,Psychic,50,3,Recover,Normal,0,1,Future Sight,Psychic,100,1
+7,Machamp,Fighting,235,145,105,65,Karate Chop,Fighting,40,3,Cross Chop,Fighting,85,2,Dynamic Punch,Fighting,85,2,Stone Edge,Rock,85,2
+8,Golem,Rock,250,135,140,45,Rock Throw,Rock,40,3,Stone Edge,Rock,85,2,Earthquake,Ground,85,2,Rollout,Rock,25,3
+9,Dragonite,Dragon,240,145,110,90,Dragon Claw,Dragon,65,3,Outrage,Dragon,100,1,Hurricane,Flying,95,2,Hyper Beam,Normal,120,1
+10,Arcanine,Fire,215,130,95,95,Flamethrower,Fire,75,3,Extreme Speed,Normal,65,3,Crunch,Dark,65,3,Fire Fang,Fire,50,3
+11,Ninetales,Fire,195,115,90,105,Flamethrower,Fire,75,3,Fire Blast,Fire,95,2,Confuse Ray,Ghost,0,1,Hex,Ghost,55,3
+12,Gyarados,Water,235,145,100,88,Waterfall,Water,65,3,Hydro Pump,Water,100,1,Bite,Dark,45,3,Dragon Dance,Dragon,0,1
+13,Lapras,Water,245,110,110,60,Surf,Water,75,3,Ice Beam,Ice,75,3,Hydro Pump,Water,100,1,Body Slam,Normal,70,3
+14,Snorlax,Normal,260,140,100,35,Body Slam,Normal,70,3,Heavy Slam,Steel,65,3,Rest,Psychic,0,1,Hyper Beam,Normal,120,1
+15,Vaporeon,Water,240,100,90,70,Surf,Water,75,3,Hydro Pump,Water,100,1,Ice Beam,Ice,75,3,Aqua Tail,Water,75,3
+16,Jolteon,Electric,180,110,75,140,Thunderbolt,Electric,75,3,Thunder,Electric,100,1,Pin Missile,Bug,20,3,Quick Attack,Normal,30,3
+17,Flareon,Fire,210,150,80,70,Fire Fang,Fire,50,3,Flamethrower,Fire,75,3,Fire Blast,Fire,95,2,Superpower,Fighting,100,1
+18,Espeon,Psychic,185,125,75,120,Psychic,Psychic,75,3,Psybeam,Psychic,50,3,Dazzling Gleam,Fairy,65,3,Shadow Ball,Ghost,65,3
+19,Umbreon,Dark,240,95,135,65,Dark Pulse,Dark,65,3,Foul Play,Dark,80,2,Confuse Ray,Ghost,0,1,Moonlight,Fairy,0,1
+20,Leafeon,Grass,215,125,120,95,Leaf Blade,Grass,75,3,Leaf Storm,Grass,100,1,X-Scissor,Bug,65,3,Swords Dance,Normal,0,1
