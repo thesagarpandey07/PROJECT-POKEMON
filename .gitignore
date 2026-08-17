@@ -1,0 +1,14 @@
+# Auto-generated build output folders (created by Makefile)
+bin/
+obj/
+
+# Executables & compiled object files
+*.o
+*.exe
+*.out
+
+# Operating system / IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
