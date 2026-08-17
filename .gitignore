@@ -3,6 +3,7 @@ bin/
 obj/
 
 # Executables & compiled object files
+try
 *.o
 *.exe
 *.out
